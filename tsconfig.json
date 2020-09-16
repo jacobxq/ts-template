@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "target": "esnext",
+        "allowJs": true,
+        "noImplicitAny": true,
+        "noUnusedParameters": true,
+        "allowSyntheticDefaultImports": true,
+        "lib": [
+            "es2017",
+            "dom"
+        ],
+        "baseUrl": "./src"
+    },
+    "include": [
+        "src", "typings"
+    ]
+}
+  
